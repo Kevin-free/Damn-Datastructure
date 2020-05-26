@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ba30240-40b9-4557-a674-f761fa57a073" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BST.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2737">
+              <caret line="134" column="20" selection-start-line="134" selection-start-column="20" selection-end-line="134" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#680#681#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#4928#4929#0" expanded="true" />
+                <element signature="e#4959#4960#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>StringStack</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/BST.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BST" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BST" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.chrisrm.idea.config" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BST" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ba30240-40b9-4557-a674-f761fa57a073" name="Default" comment="" />
+      <created>1578625151725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578625151725</updated>
+      <workItem from="1578625153968" duration="1273000" />
+      <workItem from="1578983886430" duration="28000" />
+      <workItem from="1579003299831" duration="3504000" />
+      <workItem from="1579089435428" duration="8146000" />
+      <workItem from="1580127188205" duration="1719000" />
+      <workItem from="1580302368230" duration="7091000" />
+      <workItem from="1581335683871" duration="857000" />
+      <workItem from="1582203402069" duration="1154000" />
+      <workItem from="1583160887701" duration="10000" />
+      <workItem from="1583830329311" duration="49000" />
+      <workItem from="1583830817688" duration="304000" />
+      <workItem from="1583831683804" duration="4000" />
+      <workItem from="1583831815711" duration="1332000" />
+      <workItem from="1583845935907" duration="77000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25548000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="7" side_tool="true" weight="0.32890365" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="9" />
+      <window_info anchor="bottom" id="MyBatis Log" order="10" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.47674417" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Run" order="9" weight="0.30786687" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17170954" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.2076412" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>2</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BST.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3082">
+          <caret line="134" column="20" lean-forward="true" selection-start-line="134" selection-start-column="20" selection-end-line="134" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#4928#4929#0" expanded="true" />
+            <element signature="e#4959#4960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#4928#4929#0" expanded="true" />
+            <element signature="e#4959#4960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#4928#4929#0" expanded="true" />
+            <element signature="e#4959#4960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4117">
+          <caret line="193" column="41" selection-start-line="193" selection-start-column="41" selection-end-line="193" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#4928#4929#0" expanded="true" />
+            <element signature="e#4959#4960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4025">
+          <caret line="193" column="41" selection-start-line="193" selection-start-column="41" selection-end-line="193" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#4928#4929#0" expanded="true" />
+            <element signature="e#4959#4960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4025">
+          <caret line="193" column="41" lean-forward="true" selection-start-line="193" selection-start-column="41" selection-end-line="193" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#4928#4929#0" expanded="true" />
+            <element signature="e#4959#4960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5313">
+          <caret line="251" column="30" lean-forward="true" selection-start-line="251" selection-start-column="30" selection-end-line="251" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#4928#4929#0" expanded="true" />
+            <element signature="e#4959#4960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5658">
+          <caret line="260" column="5" lean-forward="true" selection-start-line="260" selection-start-column="5" selection-end-line="260" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#4928#4929#0" expanded="true" />
+            <element signature="e#4959#4960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3381">
+          <caret line="147" column="8" lean-forward="true" selection-start-line="147" selection-start-column="8" selection-end-line="147" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#4928#4929#0" expanded="true" />
+            <element signature="e#4959#4960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3243">
+          <caret line="141" column="33" selection-start-line="141" selection-start-column="33" selection-end-line="141" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#4928#4929#0" expanded="true" />
+            <element signature="e#4959#4960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#4928#4929#0" expanded="true" />
+            <element signature="e#4959#4960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#4928#4929#0" expanded="true" />
+            <element signature="e#4959#4960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Eclipse/Java/jdk 1.8.0_144/src.zip!/com/sun/org/apache/xalan/internal/xsltc/compiler/util/StringStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Eclipse/Java/jdk 1.8.0_144/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2737">
+          <caret line="134" column="20" selection-start-line="134" selection-start-column="20" selection-end-line="134" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#4928#4929#0" expanded="true" />
+            <element signature="e#4959#4960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BST</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.14224751" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
